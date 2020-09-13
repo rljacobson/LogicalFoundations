@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:772fc64e-005d-4ed6-b24d-790857c90d20</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>[Title here]</dc:title>
+    <meta name="Sigil version" content="1.3.0" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2020-09-12</dc:date>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="arrow_down.jpg" href="Images/arrow_down.jpg" media-type="image/jpeg"/>
+    <item id="arrow_right.jpg" href="Images/arrow_right.jpg" media-type="image/jpeg"/>
+    <item id="core_mem_bg.jpg" href="Images/core_mem_bg.jpg" media-type="image/jpeg"/>
+    <item id="core_mem_hdr_bg.jpg" href="Images/core_mem_hdr_bg.jpg" media-type="image/jpeg"/>
+    <item id="deps.gif" href="Images/deps.gif" media-type="image/gif"/>
+    <item id="lf_icon.jpg" href="Images/lf_icon.jpg" media-type="image/jpeg"/>
+    <item id="logical_foundations_bg.jpg" href="Images/logical_foundations_bg.jpg" media-type="image/jpeg"/>
+    <item id="plf_icon.jpg" href="Images/plf_icon.jpg" media-type="image/jpeg"/>
+    <item id="prog_lang_bg.jpg" href="Images/prog_lang_bg.jpg" media-type="image/jpeg"/>
+    <item id="qc_bg.jpg" href="Images/qc_bg.jpg" media-type="image/jpeg"/>
+    <item id="qc_icon.jpg" href="Images/qc_icon.jpg" media-type="image/jpeg"/>
+    <item id="sf_logo_lg.png" href="Images/sf_logo_lg.png" media-type="image/png"/>
+    <item id="sf_logo_sm.png" href="Images/sf_logo_sm.png" media-type="image/png"/>
+    <item id="slf-bg.jpg" href="Images/slf-bg.jpg" media-type="image/jpeg"/>
+    <item id="slf-icon.png" href="Images/slf-icon.png" media-type="image/png"/>
+    <item id="ui-icons_444444_256x240.png" href="Images/ui-icons_444444_256x240.png" media-type="image/png"/>
+    <item id="ui-icons_555555_256x240.png" href="Images/ui-icons_555555_256x240.png" media-type="image/png"/>
+    <item id="ui-icons_777620_256x240.png" href="Images/ui-icons_777620_256x240.png" media-type="image/png"/>
+    <item id="ui-icons_777777_256x240.png" href="Images/ui-icons_777777_256x240.png" media-type="image/png"/>
+    <item id="ui-icons_cc0000_256x240.png" href="Images/ui-icons_cc0000_256x240.png" media-type="image/png"/>
+    <item id="ui-icons_ffffff_256x240.png" href="Images/ui-icons_ffffff_256x240.png" media-type="image/png"/>
+    <item id="vc-bg.jpg" href="Images/vc-bg.jpg" media-type="image/jpeg"/>
+    <item id="vc-icon.png" href="Images/vc-icon.png" media-type="image/png"/>
+    <item id="verified_bg.jpg" href="Images/verified_bg.jpg" media-type="image/jpeg"/>
+    <item id="vfa_icon.jpg" href="Images/vfa_icon.jpg" media-type="image/jpeg"/>
+    <item id="jquery-ui.min.css" href="Styles/jquery-ui.min.css" media-type="text/css"/>
+    <item id="jquery-ui.structure.min.css" href="Styles/jquery-ui.structure.min.css" media-type="text/css"/>
+    <item id="jquery-ui.theme.min.css" href="Styles/jquery-ui.theme.min.css" media-type="text/css"/>
+    <item id="lf.css" href="Styles/lf.css" media-type="text/css"/>
+    <item id="plf.css" href="Styles/plf.css" media-type="text/css"/>
+    <item id="qc.css" href="Styles/qc.css" media-type="text/css"/>
+    <item id="sf.css" href="Styles/sf.css" media-type="text/css"/>
+    <item id="slf.css" href="Styles/slf.css" media-type="text/css"/>
+    <item id="slides.css" href="Styles/slides.css" media-type="text/css"/>
+    <item id="vc.css" href="Styles/vc.css" media-type="text/css"/>
+    <item id="vfa.css" href="Styles/vfa.css" media-type="text/css"/>
+    <item id="Open-Sans-300.svg" href="Images/Open-Sans-300.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-300.ttf" href="Fonts/Open-Sans-300.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-300.woff" href="Fonts/Open-Sans-300.woff" media-type="font/woff"/>
+    <item id="Open-Sans-300.woff2" href="Fonts/Open-Sans-300.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-300italic.svg" href="Images/Open-Sans-300italic.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-300italic.ttf" href="Fonts/Open-Sans-300italic.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-300italic.woff" href="Fonts/Open-Sans-300italic.woff" media-type="font/woff"/>
+    <item id="Open-Sans-300italic.woff2" href="Fonts/Open-Sans-300italic.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-600.svg" href="Images/Open-Sans-600.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-600.ttf" href="Fonts/Open-Sans-600.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-600.woff" href="Fonts/Open-Sans-600.woff" media-type="font/woff"/>
+    <item id="Open-Sans-600.woff2" href="Fonts/Open-Sans-600.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-600italic.svg" href="Images/Open-Sans-600italic.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-600italic.ttf" href="Fonts/Open-Sans-600italic.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-600italic.woff" href="Fonts/Open-Sans-600italic.woff" media-type="font/woff"/>
+    <item id="Open-Sans-600italic.woff2" href="Fonts/Open-Sans-600italic.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-700.svg" href="Images/Open-Sans-700.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-700.ttf" href="Fonts/Open-Sans-700.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-700.woff" href="Fonts/Open-Sans-700.woff" media-type="font/woff"/>
+    <item id="Open-Sans-700.woff2" href="Fonts/Open-Sans-700.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-700italic.svg" href="Images/Open-Sans-700italic.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-700italic.ttf" href="Fonts/Open-Sans-700italic.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-700italic.woff" href="Fonts/Open-Sans-700italic.woff" media-type="font/woff"/>
+    <item id="Open-Sans-700italic.woff2" href="Fonts/Open-Sans-700italic.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-800.svg" href="Images/Open-Sans-800.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-800.ttf" href="Fonts/Open-Sans-800.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-800.woff" href="Fonts/Open-Sans-800.woff" media-type="font/woff"/>
+    <item id="Open-Sans-800.woff2" href="Fonts/Open-Sans-800.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-800italic.svg" href="Images/Open-Sans-800italic.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-800italic.ttf" href="Fonts/Open-Sans-800italic.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-800italic.woff" href="Fonts/Open-Sans-800italic.woff" media-type="font/woff"/>
+    <item id="Open-Sans-800italic.woff2" href="Fonts/Open-Sans-800italic.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-italic.svg" href="Images/Open-Sans-italic.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-italic.ttf" href="Fonts/Open-Sans-italic.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-italic.woff" href="Fonts/Open-Sans-italic.woff" media-type="font/woff"/>
+    <item id="Open-Sans-italic.woff2" href="Fonts/Open-Sans-italic.woff2" media-type="font/woff2"/>
+    <item id="Open-Sans-regular.svg" href="Images/Open-Sans-regular.svg" media-type="image/svg+xml"/>
+    <item id="Open-Sans-regular.ttf" href="Fonts/Open-Sans-regular.ttf" media-type="font/ttf"/>
+    <item id="Open-Sans-regular.woff" href="Fonts/Open-Sans-regular.woff" media-type="font/woff"/>
+    <item id="Open-Sans-regular.woff2" href="Fonts/Open-Sans-regular.woff2" media-type="font/woff2"/>
+    <item id="jquery-ui.css" href="Styles/jquery-ui.css" media-type="text/css"/>
+    <item id="jquery-ui.js" href="Misc/jquery-ui.js" media-type="application/javascript"/>
+    <item id="jquery-ui.min.js" href="Misc/jquery-ui.min.js" media-type="application/javascript"/>
+    <item id="jquery-ui.structure.css" href="Styles/jquery-ui.structure.css" media-type="text/css"/>
+    <item id="jquery-ui.theme.css" href="Styles/jquery-ui.theme.css" media-type="text/css"/>
+    <item id="jquery.js" href="Misc/jquery.js" media-type="application/javascript"/>
+    <item id="slides.js" href="Misc/slides.js" media-type="application/javascript"/>
+    <item id="toggleproofs.js" href="Misc/toggleproofs.js" media-type="application/javascript"/>
+    <item id="AltAuto.html" href="Text/AltAuto.html" media-type="application/xhtml+xml"/>
+    <item id="Auto.html" href="Text/Auto.html" media-type="application/xhtml+xml"/>
+    <item id="Basics.html" href="Text/Basics.html" media-type="application/xhtml+xml"/>
+    <item id="Bib.html" href="Text/Bib.html" media-type="application/xhtml+xml"/>
+    <item id="coqindex.html" href="Text/coqindex.html" media-type="application/xhtml+xml"/>
+    <item id="deps.html" href="Text/deps.html" media-type="application/xhtml+xml"/>
+    <item id="deps.map" href="Misc/deps.map" media-type="text/plain"/>
+    <item id="Extraction.html" href="Text/Extraction.html" media-type="application/xhtml+xml"/>
+    <item id="Imp.html" href="Text/Imp.html" media-type="application/xhtml+xml"/>
+    <item id="ImpCEvalFun.html" href="Text/ImpCEvalFun.html" media-type="application/xhtml+xml"/>
+    <item id="ImpParser.html" href="Text/ImpParser.html" media-type="application/xhtml+xml"/>
+    <item id="index.html" href="Text/index.html" media-type="application/xhtml+xml"/>
+    <item id="IndPrinciples.html" href="Text/IndPrinciples.html" media-type="application/xhtml+xml"/>
+    <item id="IndProp.html" href="Text/IndProp.html" media-type="application/xhtml+xml"/>
+    <item id="Induction.html" href="Text/Induction.html" media-type="application/xhtml+xml"/>
+    <item id="Lists.html" href="Text/Lists.html" media-type="application/xhtml+xml"/>
+    <item id="Logic.html" href="Text/Logic.html" media-type="application/xhtml+xml"/>
+    <item id="Maps.html" href="Text/Maps.html" media-type="application/xhtml+xml"/>
+    <item id="Poly.html" href="Text/Poly.html" media-type="application/xhtml+xml"/>
+    <item id="Postscript.html" href="Text/Postscript.html" media-type="application/xhtml+xml"/>
+    <item id="Preface.html" href="Text/Preface.html" media-type="application/xhtml+xml"/>
+    <item id="ProofObjects.html" href="Text/ProofObjects.html" media-type="application/xhtml+xml"/>
+    <item id="Rel.html" href="Text/Rel.html" media-type="application/xhtml+xml"/>
+    <item id="Tactics.html" href="Text/Tactics.html" media-type="application/xhtml+xml"/>
+    <item id="toc.html" href="Text/toc.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="AltAuto.html"/>
+    <itemref idref="Auto.html"/>
+    <itemref idref="Basics.html"/>
+    <itemref idref="Bib.html"/>
+    <itemref idref="coqindex.html"/>
+    <itemref idref="deps.html"/>
+    <itemref idref="Extraction.html"/>
+    <itemref idref="Imp.html"/>
+    <itemref idref="ImpCEvalFun.html"/>
+    <itemref idref="ImpParser.html"/>
+    <itemref idref="index.html"/>
+    <itemref idref="IndPrinciples.html"/>
+    <itemref idref="IndProp.html"/>
+    <itemref idref="Induction.html"/>
+    <itemref idref="Lists.html"/>
+    <itemref idref="Logic.html"/>
+    <itemref idref="Maps.html"/>
+    <itemref idref="Poly.html"/>
+    <itemref idref="Postscript.html"/>
+    <itemref idref="Preface.html"/>
+    <itemref idref="ProofObjects.html"/>
+    <itemref idref="Rel.html"/>
+    <itemref idref="Tactics.html"/>
+    <itemref idref="toc.html"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Table of Contents" href="Text/toc.html"/>
+    <reference type="bibliography" title="Bibliography" href="Text/Bib.html"/>
+    <reference type="index" title="Index" href="Text/coqindex.html"/>
+    <reference type="preface" title="Preface" href="Text/Preface.html"/>
+    <reference type="other.afterword" title="Afterword" href="Text/Postscript.html"/>
+  </guide>
+</package>
